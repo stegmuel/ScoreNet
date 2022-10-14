@@ -1,2 +1,2 @@
 # ScoreNet
-PyTorch implementation and pretrained models for ScoreNet.
+PyTorch implementation for ScoreNet.
